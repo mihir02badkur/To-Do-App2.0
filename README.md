@@ -1,3 +1,4 @@
+![screenshots](https://user-images.githubusercontent.com/85284909/124306599-408bc580-db84-11eb-8686-e80c2fb0ba99.jpeg)
 # To-Do-App2.0
 1. This application is used to save the list of tasks you want to accomplish. The app is made using Rest API and Retrofit and the tasks are stored in the servers. 
 2. You can retrieve your tasks on any device by just using your log in credentials.
